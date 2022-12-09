@@ -10,8 +10,5 @@ The is the third project for Udacity's Programming for Data Science Nanodegree. 
 
 ### Files used
 Git documentations
-Udacity class resources 
->>>>>>> documentation
+& Udacity class resources 
 
-Reference:
-1- https://git-scm.com/docs/gitignore#_pattern_format
