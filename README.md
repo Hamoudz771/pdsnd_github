@@ -9,6 +9,6 @@
 The is the third project ifor Udacity's Programming for Data Science Nanodegree. It is about using Git Commands on a remote repository 
 
 ### Files used
-Git documentation
+Git documentations
 Udacity class resources 
 
