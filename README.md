@@ -2,14 +2,13 @@
 ### Date created
 09/12/2022
 
-### Programming for Data Science Nanodegree Project 3
+### Programming for Data Science Nanodegree Project 
 
 
 ### Description
-The is project is about using Git Commands on a remote repository 
+The is the third project ifor Udacity's Programming for Data Science Nanodegree. It is about using Git Commands on a remote repository 
 
 ### Files used
-Git documentation 
+Git documentation
+Udacity class resources 
 
-### Credits
-Udacity's classrooms 
