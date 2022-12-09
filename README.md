@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<b> Using Git on the Bike Share Analysis</b> 
-
-This project is the third project in Udacity's Programming for Data Science nano-degree
-=======
 
 ### Date created
 09/12/2022
@@ -11,7 +6,7 @@ This project is the third project in Udacity's Programming for Data Science nano
 
 
 ### Description
-The is the third project ifor Udacity's Programming for Data Science Nanodegree. It is about using Git Commands on a remote repository 
+The is the third project for Udacity's Programming for Data Science Nanodegree. It is about using Git Commands on a remote repository 
 
 ### Files used
 Git documentations
